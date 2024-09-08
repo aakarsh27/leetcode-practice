@@ -1,2 +1,3 @@
 # solving leetcode
-this 
+
+this repository is meant for 
