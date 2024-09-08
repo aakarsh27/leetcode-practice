@@ -1,3 +1,3 @@
 # solving leetcode
 
-this repository is meant for solving the BLIND 75
+this repository is meant for solving the BLIND 75 leetcode sheet
